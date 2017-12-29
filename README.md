@@ -1,2 +1,4 @@
 # hello-world
-intro repos
+
+Just another dude tryna learn code
+
